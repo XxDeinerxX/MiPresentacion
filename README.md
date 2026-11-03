@@ -49,7 +49,7 @@ dotnet run
 ![Presentación correcta](capturas/presentacion.png)
 
 ### Mensaje de validación
-![Mensaje de validación](capturas/validacion.png)
+![Mensaje de validación](capturas/validacion-rojo.png)
 ## Pregunta de reflexión
 
 **¿Cuál es la función de MainWindow.axaml y MainWindow.axaml.cs, y cómo se relacionan mediante x:Name y los eventos Click?**

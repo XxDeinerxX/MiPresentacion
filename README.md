@@ -45,10 +45,11 @@ dotnet run
 
 ## Capturas de pantalla
 
-- Formulario: `capturas/formulario.png`
-- Presentación correcta: `capturas/presentacion.png`
-- Mensaje de validación: `capturas/validacion.png`
+### Presentación correcta
+![Presentación correcta](capturas/presentacion.png)
 
+### Mensaje de validación
+![Mensaje de validación](capturas/validacion.png)
 ## Pregunta de reflexión
 
 **¿Cuál es la función de MainWindow.axaml y MainWindow.axaml.cs, y cómo se relacionan mediante x:Name y los eventos Click?**
